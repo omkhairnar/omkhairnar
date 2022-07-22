@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkhairnar
 - 👀 I’m interested in learning data science
-- 🌱 I’m currently learning python and cpp
+- 🌱 I’m currently learning python and statistics(Mathematics)
 - 📫 reach me on kkhairnarson.19@gmail.com
 
 <!---
